@@ -42,7 +42,7 @@ The analysis is built on the **Online Retail Dataset**, tracking international t
 * **Objective:** Analyze demand by charting the physical volume of items sold globally to optimize supply chain and logistics fulfillment strategies.
 * **Granularity:** Evaluated by `Country` mapped against total physical `Quantity` (excluding the UK to clearly visualize secondary markets).
 * **Key Insight:** When looking past the core UK market, countries like **the Netherlands and Germany show massive demand spikes in physical units**. This confirms that these regions are buying lower-cost products in massive bulk quantities, which tells our logistics teams exactly where to optimize regional warehouse stock levels.
-* **Visualization Placeholder:** *[Insert image link or upload `question_4.png` here]*
+* **Visualization Placeholder:** * https://github.com/amnabi-h/Tata-Simulation-/blob/main/Question%204.png *
 
 ---
 
