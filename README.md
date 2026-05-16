@@ -24,7 +24,7 @@ The analysis is built on the **Online Retail Dataset**, tracking international t
 * **Objective:** Provide senior leadership with a clear view of the business's financial trajectory across the year to identify seasonal patterns.
 * **Granularity:** Configured by Month/Quarter (`Invoice Date`) against total `Revenue`.
 * **Key Insight:** The data reveals a steady baseline revenue performance through the first three quarters of the year, followed by an exponential **surge starting in October, peaking drastically in November**. This points heavily to a high dependency on Q4 holiday shopping and end-of-year wholesale restocking.
-* **Visualization Placeholder:** *[Insert image link or upload `question_1.png` here]*
+* **Visualization Placeholder:** * https://github.com/amnabi-h/Tata-Simulation-/blob/main/Question%201.png *
 
 ### 🌍 Question 2: Market Penetration (Revenue by Country)
 * **Objective:** Map out the global distribution of revenue to isolate the top 10 performing international markets (excluding outliers if necessary).
