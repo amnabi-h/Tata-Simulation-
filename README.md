@@ -36,7 +36,7 @@ The analysis is built on the **Online Retail Dataset**, tracking international t
 * **Objective:** Identify and rank the top 10 individual customer accounts by total revenue generated to enable targeted loyalty programs and VIP client management.
 * **Granularity:** Evaluated by `Customer ID` sorted descending by total `Revenue`.
 * **Key Insight:** The analysis uncovers a classic Pareto distribution where a **small, highly concentrated group of institutional or wholesale buyers (identified by unique Customer IDs) contribute disproportionately to total revenue**. Safeguarding these accounts through dedicated account management is vital for maintaining steady cash flow.
-* **Visualization Placeholder:** *[Insert image link or upload `question_3.png` here]*
+* **Visualization Placeholder:** * https://github.com/amnabi-h/Tata-Simulation-/blob/main/Question%203.png *
 
 ### 📦 Question 4: Product Demand Distribution (Quantity by Country)
 * **Objective:** Analyze demand by charting the physical volume of items sold globally to optimize supply chain and logistics fulfillment strategies.
