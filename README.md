@@ -30,7 +30,7 @@ The analysis is built on the **Online Retail Dataset**, tracking international t
 * **Objective:** Map out the global distribution of revenue to isolate the top 10 performing international markets (excluding outliers if necessary).
 * **Granularity:** Evaluated by `Country` against total aggregated `Revenue`.
 * **Key Insight:** The **United Kingdom stands as the absolute dominant core market**, accounting for the vast majority of total global revenue. Secondary high-performing clusters are firmly rooted in Western Europe, led by **the Netherlands, Ireland, Germany, and France**, indicating strong baseline regional expansion channels.
-* **Visualization Placeholder:** *[Insert image link or upload `question_2.png` here]*
+* **Visualization Placeholder:** * https://github.com/amnabi-h/Tata-Simulation-/blob/main/Question%202.png *
 
 ### 👥 Question 3: High-Value Customer Identification (Top 10 Customers)
 * **Objective:** Identify and rank the top 10 individual customer accounts by total revenue generated to enable targeted loyalty programs and VIP client management.
